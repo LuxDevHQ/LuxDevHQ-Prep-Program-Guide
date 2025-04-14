@@ -172,16 +172,3 @@ Following the learning phase, students will proceed to a **2-month internship**.
 _Goal: Ensure every student completes the program with tangible, real-world experience._
 
 ---
-
- **This is now a fully detailed, enriched program document.**
-
----
-
-### Optional (I can also prepare for you):
-- Export as `.md` ready to use  
-- Export as polished PDF (looks great for student handbook)  
-- Add table of contents with internal links  
-- Add company branding for LUXDEV HQ SERVICES LIMITED (now that I’ve seen your certificate)  
-- Add version with icons and emojis for a modern feel!
-
-Would you like me to prepare those as well? 🚀
