@@ -20,10 +20,10 @@ First week (30th July to 4th July 2025) will be installtion, onboarding learners
 - We offer both online and in-person training, depending on the learner's availability.
 - We believe in "learning by doing" — all sessions include hands-on activities and guided projects.
 
-**Class Schedules:**
-- **Day Classes:** 9:00 AM to 5:00 PM (Online and Physical Classes)  
-  _Tip: Ideal for full-time learners who want immersive, instructor-led sessions._
-- **Evening Classes:** 7:00 PM to 10:30 PM EAT (Online)  
+**Class Schedules:**  
+- **Day Classes:** 9:00 AM – 5:00 PM EAT (Online and In-person)  
+  _Tip: Ideal for full-time learners seeking immersive, instructor-led sessions._  
+- **Evening Classes:** 7:00 PM – 10:30 PM EAT (Online only)  
   _Tip: Perfect for working professionals or those balancing other commitments._
 
 ---
