@@ -14,11 +14,11 @@ First week (30th July to 4th July 2025) will be installtion, onboarding learners
 - During the internship, students will participate in real project development using the skills they have learned in the program, working with actual data and contributing to real-world solutions.
 
 **Target Audience:**  
-This program is designed for aspiring data analysts, data engineers, professionals seeking to upskill in analytics and automation, as well as entrepreneurs looking to make sense of their data.
+- This program is designed for aspiring data analysts, data engineers, professionals seeking to upskill in analytics and automation, as well as entrepreneurs looking to make sense of their data.
 
-**Delivery Mode:**  
-Onsite (Live Sessions + Practical Labs)  
-We believe in "learning by doing" — all sessions will involve hands-on activities and guided projects.
+**Delivery Mode:**
+- We offer both online and in-person training, depending on the learner's availability.
+- We believe in "learning by doing" — all sessions include hands-on activities and guided projects.
 
 **Class Schedules:**
 - **Day Classes:** 9:00 AM to 5:00 PM (Online and Physical Classes)  
