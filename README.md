@@ -2,10 +2,11 @@
 
 **Program Overview**
 
-The LUXDEVHQ 6-Week Program is an intensive, hands-on learning experience designed to equip participants with essential skills in data analytics, data engineering, and real-time data processing. The program combines theory, practical labs, and real-world projects to ensure a comprehensive understanding of modern data tools and workflows.
+The LUXDEVHQ 6-Week Program is an intensive, hands-on learning experience designed to equip participants with essential skills in data analytics, data science, engineering, and machine learning. The program combines theory, practical labs, and real-world projects to ensure a comprehensive understanding of modern data tools and workflows.
 
 **Program Start Date:**  
-21st April
+30th July 2025. 
+First week (30th July to 4th July 2025) will be installtion, onboarding learners, and making sure they are aware of the tools and technologies that we will be using through out the program.
 
 **Program Duration:**  
 6 Weeks of intensive learning, followed by 2 months of internship  
