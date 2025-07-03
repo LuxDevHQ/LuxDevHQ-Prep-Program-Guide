@@ -28,25 +28,57 @@ First week (30th July to 4th July 2025) will be installtion, onboarding learners
 
 ---
 
-### **WEEK 1: Excel, Power BI & SQL Fundamentals**
-
-**Objective:**  
-Build a solid foundation in essential data tools. Master how to clean, analyze, and visualize data effectively.
-
-**Topics Covered:**
-- **Excel basics:** Learn formulas, functions, pivot tables, charts, and lookups.  
-  _Note: Excel is still the #1 business analysis tool worldwide!_
-- **Power BI Introduction:** Build interactive dashboards and learn how to tell compelling data stories.
-- **SQL Basics:** Understand how to extract and filter data using `SELECT`, `WHERE`, `ORDER BY`, and aggregations.
-
-**Tools:**
-- **Microsoft Excel** – for quick data analysis and cleaning.
-- **Power BI Desktop** – to design and share dashboards.
-- **MySQL / PostgreSQL** – foundational relational databases for storing and querying data.
-
- _By the end of Week 1, you'll confidently use Excel and Power BI, and write basic SQL queries._
+Here's a refined version of your objective with direct links to each corresponding Markdown guide:
 
 ---
+
+# **Week 1 Learning Path: Essential Data Tools Foundation**  
+
+## **Objective**  
+Build a solid foundation in essential data tools. Master how to clean, analyze, and visualize data effectively.  
+
+## **Topics & Resources**  
+
+### **1. Excel Fundamentals**  
+*Still the #1 business analysis tool worldwide!*  
+- **Formulas, Functions, Pivot Tables**: [Comprehensive Excel Guide](#comprehensive-excel-guide)  
+- **Data Cleaning & Lookups**: [Excel Tips & Tricks](#excel-tips--tricks)  
+
+### **2. Power BI Introduction**  
+*Build interactive dashboards and tell data stories*  
+- **Data Import & Transformations**: [Power BI Data Handling](#data-import--transformation)  
+- **DAX & Visualizations**: [Power BI DAX & Charts](#dax-data-analysis-expressions)  
+- **Dashboard Design**: [Reports & Dashboards](#reports--dashboards)  
+
+### **3. SQL Basics**  
+*Extract and filter data like a pro*  
+- **Querying Data**: [SQL SELECT Basics](#querying-data)  
+- **Filtering/Sorting**: [WHERE & ORDER BY](#filtering-and-sorting)  
+- **Aggregations**: [GROUP BY & Functions](#aggregation-and-grouping)  
+
+## **Tools to Master**  
+| Tool | Purpose | Resource |  
+|------|---------|----------|  
+| **Microsoft Excel** | Quick analysis & cleaning | [Excel Guide](#comprehensive-excel-guide) |  
+| **Power BI Desktop** | Dashboard design | [Power BI Guide](#comprehensive-power-bi-guide) |  
+| **MySQL/PostgreSQL** | Data storage & querying | [SQL Guide](#comprehensive-sql-guide) |  
+
+## **Week 1 Outcomes**  
+By the end of this week, you’ll:  
+✔ Confidently analyze data in **Excel**  
+✔ Design basic **Power BI dashboards**  
+✔ Write **SQL queries** (`SELECT`, `WHERE`, aggregations)  
+
+---
+
+### **Linked Guides**  
+1. [**Comprehensive Excel Guide**](#comprehensive-excel-guide)  
+2. [**Power BI Guide**](#comprehensive-power-bi-guide)  
+3. [**SQL Guide**](#comprehensive-sql-guide)  
+
+**Pro Tip:** Bookmark these guides for quick reference!  
+
+--- 
 
 ### **WEEK 2: Introduction to Python for Data Analysis**
 
