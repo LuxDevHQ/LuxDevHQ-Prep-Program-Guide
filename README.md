@@ -28,9 +28,6 @@ First week (30th July to 4th July 2025) will be installtion, onboarding learners
 
 ---
 
-Here's a refined version of your objective with direct links to each corresponding Markdown guide:
-
----
 
 # **Week 1 Learning Path: Essential Data Tools Foundation**  
 
@@ -72,9 +69,9 @@ By the end of this week, you’ll:
 ---
 
 ### **Linked Guides**  
-1. [**Comprehensive Excel Guide**](#comprehensive-excel-guide)  
-2. [**Power BI Guide**](#comprehensive-power-bi-guide)  
-3. [**SQL Guide**](#comprehensive-sql-guide)  
+1. [**Comprehensive Excel Guide**](./excel-guide.md)  
+2. [**Power BI Guide**](./power-bi.md)  
+3. [**SQL Guide**](./sql-guide.md)  
 
 **Pro Tip:** Bookmark these guides for quick reference!  
 
