@@ -6,7 +6,7 @@
 3. [Formulas and Functions](#formulas-and-functions)  
 4. [Data Analysis and Visualization](#Data-Analysis-and-Visualization)  
 5. [Pivot Tables](#pivot-tables)  
-6. [Data Cleaning & Formatting](#data-cleaning--formatting)  
+6. [Data Cleaning and Formatting](#data-cleaning-formatting)  
 7. [Advanced Excel Features](#advanced-excel-features)  
 8. [Keyboard Shortcuts](#keyboard-shortcuts)  
 9. [Excel Tips & Tricks](#excel-tips--tricks)  
