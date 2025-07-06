@@ -1,10 +1,10 @@
 # **Comprehensive Excel Guide**  
 
 ## **Table of Contents**  
-1. [Introduction to Excel](#introduction-to-excel)  
+1. [Introduction to Excel](##introduction-to-excel)  
 2. [Basic Excel Operations](#basic-excel-operations)  
 3. [Formulas and Functions](#formulas-and-functions)  
-4. [Data Analysis & Visualization](##**4. Data Analysis & Visualization**)  
+4. [Data Analysis & Visualization](##4. Data Analysis & Visualization)  
 5. [Pivot Tables](#pivot-tables)  
 6. [Data Cleaning & Formatting](#data-cleaning--formatting)  
 7. [Advanced Excel Features](#advanced-excel-features)  
