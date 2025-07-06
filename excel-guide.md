@@ -78,7 +78,7 @@ Microsoft Excel is a **spreadsheet program** used for data organization, calcula
 
 ---
 
-## **Data Analysis & Visualization**  
+## **Data Analysis and Visualization**  
 
 ### **Sorting & Filtering**  
 - **Sort**: `Data > Sort` (Ascending/Descending)  
