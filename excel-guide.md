@@ -4,7 +4,7 @@
 1. [Introduction to Excel](#Introduction-to-Excel)  
 2. [Basic Excel Operations](#basic-excel-operations)  
 3. [Formulas and Functions](#formulas-and-functions)  
-4. [Data Analysis & Visualization](#Data-Analysis-&-Visualization)  
+4. [Data Analysis and Visualization](#Data-Analysis-and-Visualization)  
 5. [Pivot Tables](#pivot-tables)  
 6. [Data Cleaning & Formatting](#data-cleaning--formatting)  
 7. [Advanced Excel Features](#advanced-excel-features)  
@@ -118,7 +118,7 @@ Pivot Tables summarize large datasets dynamically.
 
 ---
 
-## **Data Cleaning & Formatting**  
+## **Data Cleaning and Formatting**  
 
 ### **Removing Duplicates**  
 1. Select data → `Data > Remove Duplicates`  
