@@ -13,7 +13,7 @@
 
 ---
 
-## **Introduction to Excel**  
+## 1). **Introduction to Excel**  
 Microsoft Excel is a **spreadsheet program** used for data organization, calculations, analysis, and visualization.  
 
 ### **Key Components**  
