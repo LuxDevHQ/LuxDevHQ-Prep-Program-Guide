@@ -4,7 +4,7 @@
 1. [Introduction to Excel](#Introduction-to-Excel)  
 2. [Basic Excel Operations](#basic-excel-operations)  
 3. [Formulas and Functions](#formulas-and-functions)  
-4. [Data Analysis & Visualization](##4. Data Analysis & Visualization)  
+4. [Data Analysis & Visualization](#Data-Analysis-Visualization)  
 5. [Pivot Tables](#pivot-tables)  
 6. [Data Cleaning & Formatting](#data-cleaning--formatting)  
 7. [Advanced Excel Features](#advanced-excel-features)  
