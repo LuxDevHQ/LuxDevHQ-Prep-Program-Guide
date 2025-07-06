@@ -48,7 +48,7 @@ Microsoft Excel is a **spreadsheet program** used for data organization, calcula
 
 ---
 
-## **3. Formulas and Functions**  
+## **Formulas and Functions**  
 
 ### **Basic Formulas**  
 | Formula | Example | Description |
@@ -78,7 +78,7 @@ Microsoft Excel is a **spreadsheet program** used for data organization, calcula
 
 ---
 
-## **4. Data Analysis & Visualization**  
+## **Data Analysis & Visualization**  
 
 ### **Sorting & Filtering**  
 - **Sort**: `Data > Sort` (Ascending/Descending)  
@@ -99,7 +99,7 @@ Microsoft Excel is a **spreadsheet program** used for data organization, calcula
 
 ---
 
-## **5. Pivot Tables**  
+## **Pivot Tables**  
 Pivot Tables summarize large datasets dynamically.  
 
 ### **Steps to Create a Pivot Table**  
@@ -118,7 +118,7 @@ Pivot Tables summarize large datasets dynamically.
 
 ---
 
-## **6. Data Cleaning & Formatting**  
+## **Data Cleaning & Formatting**  
 
 ### **Removing Duplicates**  
 1. Select data → `Data > Remove Duplicates`  
@@ -133,7 +133,7 @@ Split data into multiple columns (e.g., splitting "First Last" into two columns)
 
 ---
 
-## **7. Advanced Excel Features**  
+## **Advanced Excel Features**  
 
 ### **Macros & Automation**  
 - Record a macro: `View > Macros > Record Macro`  
@@ -148,7 +148,7 @@ Restrict input in cells (e.g., dropdown lists, number ranges).
 
 ---
 
-## **8. Keyboard Shortcuts**  
+## **Keyboard Shortcuts**  
 
 | Shortcut | Action |
 |----------|--------|
@@ -165,7 +165,7 @@ Restrict input in cells (e.g., dropdown lists, number ranges).
 
 ---
 
-## **9. Excel Tips & Tricks**  
+## **Excel Tips & Tricks**  
 
 ✅ **Flash Fill (`Ctrl + E`)** – Automatically fills data based on patterns.  
 ✅ **Quick Analysis (`Ctrl + Q`)** – Instant charts, formatting, and totals.  
