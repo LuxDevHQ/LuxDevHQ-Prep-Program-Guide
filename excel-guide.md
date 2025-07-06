@@ -1,7 +1,7 @@
 # **Comprehensive Excel Guide**  
 
 ## **Table of Contents**  
-1. [Introduction to Excel](#1-Introduction-to-Excel)  
+1. [Introduction to Excel](#1.-Introduction-to-Excel)  
 2. [Basic Excel Operations](#basic-excel-operations)  
 3. [Formulas and Functions](#formulas-and-functions)  
 4. [Data Analysis & Visualization](##4. Data Analysis & Visualization)  
@@ -13,7 +13,7 @@
 
 ---
 
-## **1 Introduction to Excel**  
+## **1. Introduction to Excel**  
 Microsoft Excel is a **spreadsheet program** used for data organization, calculations, analysis, and visualization.  
 
 ### **Key Components**  
